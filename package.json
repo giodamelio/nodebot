@@ -1,0 +1,8 @@
+{
+  "name": "nodebot",
+  "version": "0.1.0",
+  "description": "A reddit bot that executes javascript with the help of NodeJS",
+  "author": "Gio d'Amelio",
+  "main": "index.js",
+  "license": "MIT"
+}
