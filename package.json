@@ -6,7 +6,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "request": "~2.27.0"
+    "request": "~2.27.0",
+    "caterpillar": "~2.0.4"
   },
   "devDependencies": {
     "supervisor": "~0.5.4",
